@@ -1,0 +1,33 @@
+{
+  "total_results": 1,
+  "items": [
+    {
+      "company_number": "06500244",
+      "company_type": "ltd",
+      "title": "BBC LIMITED",
+      "company_status": "active",
+      "date_of_creation": "2008-02-11",
+      "address": {
+        "locality": "Retford",
+        "premises": "Boswell Cottage Main Street",
+        "country": "England",
+        "postal_code": "DN22 0AD",
+        "address_line_1": "North Leverton"
+      },
+      "officers": [
+        {
+          "name": "ANTLES, Kerri",
+          "officer_role": "director",
+          "appointed_on": "2017-04-01",
+          "address": {
+            "locality": "Leeds",
+            "premises": "The Leeming Building",
+            "country": "England",
+            "postal_code": "LS2 7JF",
+            "address_line_1": "Vicar Lane"
+          }
+        }
+      ]
+    }
+  ]
+}
